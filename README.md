@@ -57,6 +57,9 @@ The model is optimized, and the predictive accuracy is increased to over 75%, or
 - The results are saved to an HDF5 file 
 
 ## Deliverable 4: A Written(README.md)
-
-- The model accuracy is under 75%, sadly this model will not be effiective in predicting the outcomes of the charity donations.
+- **Model Accuracy :** <br>
+  0.7268804907798767
+- **The model accuracy is under 75%:** <br>
+  This model will not be effiective in predicting the outcomes of the charity donations.
+      
 - Since model did not reach the target of 75% accuracy we would not consider this model as outperforming.
