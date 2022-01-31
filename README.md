@@ -41,5 +41,12 @@ The following preprocessing steps have been performed:
 ## Deliverable 2: Compile, Train, and Evaluate the Model
 
 ## Deliverable 3: Optimize the Model
+The model is optimized, and the predictive accuracy is increased to over 75%, or there is working code that makes three attempts to increase model performance using the following steps:
+- Noisy variables are removed from features
+- Additional neurons are added to hidden layers 
+- Additional hidden layers are added
+- The activation function of hidden layers or output layers is changed for optimization 
+- The model's weights are saved every 5 epochs 
+- The results are saved to an HDF5 file 
 
 ## Deliverable 4: A Written Report on the Neural Network Model (README.md)
