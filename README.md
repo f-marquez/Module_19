@@ -56,4 +56,7 @@ The model is optimized, and the predictive accuracy is increased to over 75%, or
 - The model's weights are saved every 5 epochs 
 - The results are saved to an HDF5 file 
 
-## Deliverable 4: A Written Report on the Neural Network Model (README.md)
+## Deliverable 4: A Written(README.md)
+
+- The model accuracy is under 75%, sadly this model will not be effiective in predicting the outcomes of the charity donations.
+- Since model did not reach the target of 75% accuracy we would not consider this model as outperforming.
