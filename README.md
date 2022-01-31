@@ -1,4 +1,5 @@
 # Module_19
+Alphabet Soup Charity
 
 ## Overview
 Beks has come a long way since her first day at that boot camp five years ago—and since earlier this week, when she started learning about neural networks! Now, she is finally ready to put her skills to work to help the foundation predict where to make investments.
@@ -45,5 +46,15 @@ The neural network model using Tensorflow Keras contains working code that perfo
   - The results are saved to an HDF5 file 
 
 ## Deliverable 3: Optimize the Model
+The model is optimized, and the predictive accuracy is increased to over 75%, or there is working code that makes three attempts to increase model performance using the following steps:
+   - Noisy variables are removed from features 
+   - Additional neurons are added to hidden layers 
+   - Additional hidden layers are added 
+   - The activation function of hidden layers or output layers is changed for optimization 
+   - The model's weights are saved every 5 epochs 
+   - The results are saved to an HDF5 file 
 
 ## Deliverable 4: A Written Report (README.md)
+- Since the model accuracy is under 75%, this would not effectively help predict the outcome of the charity donations.
+- Several "tweaks" to the model were made but none rendered any true improvement on the model's performance
+- Since Model did not reach or surpass the target of 75% accuracy, we would not consider this model to be outperforming.
