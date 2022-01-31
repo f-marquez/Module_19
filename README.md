@@ -24,10 +24,19 @@ This new assignment consists of three technical analysis deliverables and a writ
 - **Deliverable 1:** Preprocessing Data for a Neural Network Model
 - **Deliverable 2:** Compile, Train, and Evaluate the Model
 - **Deliverable 3:** Optimize the Model
-- **Deliverable 4:** A Written Report on the Neural Network Model (README.md)
-![Alt text]()
+- **Deliverable 4:** A Written Report on the Neural Network Model (README.md)<br>
+
+
+![Alt text](https://github.com/f-marquez/Module_19/blob/main/Resources/neural-network.png)
 
 ## Deliverable 1: Preprocessing Data for a Neural Network Model
+The following preprocessing steps have been performed:
+   - The EIN and NAME columns have been dropped 
+   - The columns with more than 10 unique values have been grouped together
+   - The categorical variables have been encoded using one-hot encoding 
+   - The preprocessed data is split into features and target arrays
+   - The preprocessed data is split into training and testing datasets 
+   - The numerical values have been standardized using the StandardScaler() module
 
 ## Deliverable 2: Compile, Train, and Evaluate the Model
 
